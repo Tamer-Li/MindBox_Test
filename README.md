@@ -46,7 +46,7 @@
      venv/Scripts/activate.bat
      `
      
-     [Официальная инструкция] (https://docs.python.org/3/library/venv.html) по активации окружения
+     [Официальная инструкция](https://docs.python.org/3/library/venv.html) по активации окружения
 
   4. Ставим pyspark из **pip**:
      `(venv) pip install pyspark` 
