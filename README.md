@@ -17,5 +17,5 @@
 `` Папка **test_task** имеет:
 - папку **calculate_figures** c кодом `calculate.py`
 - код для тестов `tests.py`
-- папку **data_frame** с блокнотом Jupyter кодом `task_2.py`
+- папку **data_frame** с блокнотом Jupyter кодом `task_2.ipynb`
 ``
