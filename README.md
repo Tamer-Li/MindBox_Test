@@ -27,24 +27,22 @@
   1. Python 3.9+
   2. Установленный Java/OpenJDK версии 11 или выше.
      Проверить установку из терминала (Windows/Linux/macOS):
-     `java -version
-     openjdk version "21.0.2" 2024-01-16 LTS
-     OpenJDK Runtime Environment Microsoft-8905927 (build 21.0.2+13-LTS)
-     OpenJDK 64-Bit Server VM Microsoft-8905927 (build 21.0.2+13-LTS, mixed mode, sharing)
-     `
+     `java -version`
+     `openjdk version "21.0.2" 2024-01-16 LTS`
+     `OpenJDK Runtime Environment Microsoft-8905927 (build 21.0.2+13-LTS)`
+     `OpenJDK 64-Bit Server VM Microsoft-8905927 (build 21.0.2+13-LTS, mixed mode, sharing)`
+
 
 ## Установка Apache Spark
   1. Делаем виртуальное окружение Python:
      `python -m venv venv
      source venv/bin/activate`
   2. Активируем окружение
-     `
-     # Linux, macOS
-     source venv/bin/activate
+     `# Linux, macOS`
+     `source venv/bin/activate`
 
-     # Windows
-     venv/Scripts/activate.bat
-     `
+     `# Windows`
+     `venv/Scripts/activate.bat`
      
      [Официальная инструкция](https://docs.python.org/3/library/venv.html) по активации окружения
 
